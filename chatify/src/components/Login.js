@@ -28,7 +28,7 @@ const Login = () => {
             <div className="login_container">
                 <img src="" alt="" />
                 <div className="login_text">
-                    <h1>Sign in to whatsapp</h1>
+                    <h1>Sign in to Chatify</h1>
                 </div>
                 <Button onClick={signIn}>Sign in with Google</Button>
             </div>
